@@ -1,5 +1,5 @@
 """
-martial arts technique classifier
+technique classifier
 """
 import os
 import logging
